@@ -1,0 +1,25 @@
+body {
+	font-size: 20px;
+}
+
+.body {
+	margin-top: 50px;
+	margin-left: 33.333%;
+	margin-right: 33.333%;
+}
+
+/*
+.bd {
+	border: 1px solid black;
+}
+*/
+
+.entry {
+	margin-top: 20px;
+}
+
+textarea {
+	resize: none;
+	height: 100%;
+	width: 100%;
+}
